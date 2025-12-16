@@ -1,29 +1,16 @@
 # GELIS DELIVERY
 
-Repository untuk GELIS DELIVERY - Platform Layanan Pesan Antar Makanan
+Repository untuk GELIS DELIVERY
 
-## 🚀 Quick Start
+## Deskripsi
 
-Repository ini saat ini kosong dan siap untuk pengembangan.
+Platform pesan antar makanan yang menghubungkan pelanggan dengan warung lokal.
 
-## 📋 Aplikasi
+## Kontak
 
-- **Customer App**: Aplikasi mobile untuk pelanggan
-- **Admin Dashboard**: Panel admin untuk manajemen sistem
-- **Mitra Dashboard**: Panel untuk manajemen warung/mitra
-- **Driver Dashboard**: Panel untuk manajemen driver
-
-## 🛠️ Tech Stack
-
-- Frontend: React, TypeScript, Tailwind CSS
-- Backend: Supabase
-- Hosting: Hostinger
-
-## 📞 Kontak
-
-- Email: info@gelis-delivery.com
 - Website: https://gelis-delivery.cloud
+- Email: info@gelis-delivery.com
 
 ---
 
-© 2024 GELIS DELIVERY Team
+© 2024 GELIS DELIVERY
